@@ -11,8 +11,8 @@ We have used concepts of machine learning, computer vision, object detection, an
 
 # Where can you reach me??
 If you come across errors or blocks while utilising this source code or application, feel free to write to me in email.
-email: matrixskmx@gmail.com
-or Connect: Linkedin - https://www.linkedin.com/in/whcyberus/
+email: matrixskmx@gmail.com or
+Connect with me : Linkedin - https://www.linkedin.com/in/whcyberus/
 
 # Finally!!
 Thank you to you, for utilising this code and application as reference or for educational purposes!!
