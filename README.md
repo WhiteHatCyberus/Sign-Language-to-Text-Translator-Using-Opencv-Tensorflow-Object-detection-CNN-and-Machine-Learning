@@ -15,5 +15,5 @@ email: matrixskmx@gmail.com
 or Connect: Linkedin - https://www.linkedin.com/in/whcyberus/
 
 # Finally!!
-Thank you to you, for utilising this code and application as reference or educational purposes!!
+Thank you to you, for utilising this code and application as reference or for educational purposes!!
 Also I'm thankful for the team I had while creating this!!
