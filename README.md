@@ -2,7 +2,7 @@
 We have used concepts of machine learning, computer vision, object detection, and cnn (convolutional neural networks)
 
 # Instructions
-1. If you intend to create gestures or run the translator, its advisable to run firstpage.py (Main UI made using Tkinter modules) within "Main menu and creation of datasets"<br><img width="310" alt="Screenshot 2022-09-07 110715" src="https://user-images.githubusercontent.com/70995581/188797226-64fc042c-4768-4f56-9858-f54deb096804.png" class="center">
+1. <p>If you intend to create gestures or run the translator, its advisable to run firstpage.py (Main UI made using Tkinter modules) within "Main menu and creation of datasets"<br><img width="310" alt="Screenshot 2022-09-07 110715" src="https://user-images.githubusercontent.com/70995581/188797226-64fc042c-4768-4f56-9858-f54deb096804.png" class="center"></p>
 
 2. We have trained the MNIST dataset CNN model with Tensorflow Object Detection API. 
 3. The obtained accuracy of trained model is 99.3%.
