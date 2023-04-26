@@ -11,9 +11,10 @@ We have used concepts of machine learning, computer vision, object detection, an
 6. When you run the translator, make sure your background has minimal disturbances and noise.
 
 # Where can you reach me??
-If you come across errors or blocks while utilising this source code or application, feel free to write to me in email.
-<p>email: matrixskmx@gmail.com<br>
-Connect with me : Linkedin - https://www.linkedin.com/in/whcyberus/</p>
+If you come across errors or blocks while utilising this source code or application, feel free to write to me in [email](mailto:whcyberus@gmail.com)
+
+# Connect with me : 
+[Linkedin](https://www.linkedin.com/in/whcyberus/)
 
 # Finally!!
 <p>Thank you to you, for utilising this code and application as reference or for educational purposes!!<br>
